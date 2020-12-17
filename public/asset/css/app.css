@@ -1,0 +1,9 @@
+.back
+{
+
+ 
+    background-image: url(../img/hd-wallpaper-4.jpg) !important;
+    background-position: center,center !important;
+    min-height: 100vh !important;
+    width: 100% !important;
+}
