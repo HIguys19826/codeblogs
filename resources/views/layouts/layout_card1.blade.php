@@ -28,6 +28,9 @@
                         <li class="nav-item">
                             <a class="nav-link" aria-current="page" href="{{url('/tags')}}">tags</a>
                         </li>
+                        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="{{url('/posts/create')}}">Create</a>
+        </li>
                     </ul>
 
                 </div>
